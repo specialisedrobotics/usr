@@ -1,4 +1,4 @@
-# Soft Robotics
+# Underwater Soft Robot
 
 Soft robotics for underwater applications that opperates in shallow to medium depths for sea water up to 100 meters.
 
@@ -7,7 +7,7 @@ Soft robotics for underwater applications that opperates in shallow to medium de
 Payload:
 -able to carry up to 10 kg
 -tug up to 5kg
--connect in tandem with other smarm
+-connect in tandem with other bots (swarm operation)
 
 ```
 depth --- water
@@ -24,9 +24,8 @@ depth --- water
 Requirements
 
 -Able to swim in shallow waters
--Autonomously operate alone as well with other robots
--Self powered
--Teleoperated on Demand
+-Semi-Autonomous operation
+-Fluid based propulsion
 
 
 # who will it serve
