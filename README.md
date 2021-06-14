@@ -9,7 +9,7 @@ Payload:
 -tug up to 5kg
 -connect in tandem with other smarm
 
-"""
+```
 depth --- water
 5  -----sr------
 10 ---------sr--
@@ -18,7 +18,7 @@ depth --- water
 40 ---sr--------
 50 -------sr----
 
-"""
+```
 
 
 Requirements
